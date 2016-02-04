@@ -1,2 +1,2 @@
 # FirebaseBasics
-Testing Ground for Firebase
+Testing Ground for Firebase API
